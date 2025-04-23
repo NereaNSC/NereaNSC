@@ -46,7 +46,13 @@ Soy desarrolladora web con formación técnica en desarrollo de aplicaciones web
 - ✉️ nerea.nsc@outlook.com
 
 ---
+<!--
+### 📫 Certificaciones o cursos Realizados
 
+
+
+---
+-->
 Gracias por visitar mi perfil 🙌  
 
 """
