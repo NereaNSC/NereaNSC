@@ -1,5 +1,4 @@
-# Reescribimos el archivo README.md tras el reinicio del entorno
-readme_content = """
+
 # ¡Hola! 👋 Soy Nerea Santos Cebrián
 
 🎯 Junior Developer | SEO Specialist | Apasionada del desarrollo web
@@ -51,13 +50,6 @@ Soy desarrolladora web con formación técnica en desarrollo de aplicaciones web
 Gracias por visitar mi perfil 🙌  
 
 """
-
-# Guardar el archivo como README.md
-readme_path = "/mnt/data/README_NereaNSC.md"
-with open(readme_path, "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-readme_path
 
 <!--
 **NereaNSC/NereaNSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
