@@ -23,7 +23,7 @@ Soy desarrolladora web con formación técnica en desarrollo de aplicaciones web
 ### 📂 Algunos de mis proyectos
 
 🔸 [Landing page simple responsive con HTML y CSS](https://github.com/NereaNSC/Cursos_Udemy/tree/main/Desarrollador_Web%20_Completo_Juan_Pablo_de_la_Torre_Valdez/1--WebFreelancer_HTML_CSS)  
-🔸 [Próximamente Sitio WordPress con optimización SEO]([#](https://xn--mundobaos-r6a.es/))  
+🔸 [Actualmente trabajando en una Próximamente Sitio WordPress con optimización SEO](https://xn--mundobaos-r6a.es/)  
 🔸 [Próximamente Sitio WordPress con plantilla simple realizada por mi](#)  
 🔸 [App CRUD con Laravel y base de datos](https://github.com/NereaNSC/HamburgueseriaUE/)  
 <!--🔸 [Auditoría SEO completa en PDF](#)-->
